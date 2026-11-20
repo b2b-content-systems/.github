@@ -9,6 +9,14 @@
 
 B2B Content Systems builds the systems a marketing team uses to ship content that used to need a studio: films, publications, web pages and documents. The tools here come out of that work. Each one is small, tested on every change, and MIT-licensed.
 
+### Products
+
+| Product | What it is | Status |
+|---|---|---|
+| [**CHATCOM**](https://github.com/b2b-content-systems/chatcom) | Turn your group chat into your favorite TV series. A Claude skill: drop in your chat, get back an episode starring your friends. [Watch the trailer](https://b2b-content-systems.github.io/chatcom/). | v0.1 in development |
+
+Install every B2B Content Systems skill in Claude Code with `/plugin marketplace add b2b-content-systems/skills`.
+
 ### Tools
 
 | Tool | What it does | Tests | Release |
